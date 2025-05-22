@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a BS Computer Science student deeply intereste
 ## 🚀 Projects
 
 ### 🔹 [Employee Management System](https://github.com/Zeeshan-Rahmat/EMS)
-A web-based application for managing employee records, departments, and attendance. Built with HTML, CSS, JavaScript, and PHP (MySQL).
+A web-based application built using React and Tailwind CSS. It allows admins to manage employees and their tasks with a clean and responsive user interface.
 
 ### 🔹 [CookMate](https://github.com/Zeeshan-Rahmat/cook-mate)
 A smart web app where users can input ingredients and receive AI-generated recipes in Markdown format. Powered by the model `mistralai/mistral-small-3.1-24b-instruct:free`.
